@@ -1,4 +1,4 @@
-title: Resources for Learning Data Science
+# Resources for Learning Data Science
 
 ## Dataset of Interest
 [Japan Neighborhoods](https://japanneighborhoods.com/)
