@@ -1,4 +1,3 @@
-layout: post
 title: Resources for Learning Data Science
 
 ## Dataset of Interest
